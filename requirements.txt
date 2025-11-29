@@ -1,0 +1,11 @@
+# 通过PID获取进程信息，查询CPU/内存调用
+psutil==5.9.8
+# 获取当前活动窗口的句柄，调用WindowsAPI
+pywin32==306
+# 核心的GUI
+PySide6==6.6.1
+PySide6-Addons==6.6.1
+PySide6-Essentials==6.6.1
+pandas==2.2.0
+# 图表展示
+matplotlib==3.8.2
