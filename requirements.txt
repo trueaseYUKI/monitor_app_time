@@ -3,6 +3,7 @@ psutil==5.9.8
 # 获取当前活动窗口的句柄，调用WindowsAPI
 pywin32==306
 # 核心的GUI
+PyQt5==5.15.9
 PySide6==6.6.1
 PySide6-Addons==6.6.1
 PySide6-Essentials==6.6.1
